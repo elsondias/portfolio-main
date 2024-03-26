@@ -791,7 +791,7 @@ footer .line-footer {
 
 /* MOBILE */
 
-@media (max-width: 768px) {
+@media (min-width: 320px) and (max-width: 768px) {
     html {
         scroll-behavior: smooth;
         width: 100%;
